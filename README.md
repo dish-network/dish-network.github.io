@@ -1,7 +1,7 @@
 ## Dish Network
 
 
-DISH Network Corporation is a most reliable satellite television provider in the United States that offers high definition content quality and innovative services. It has designed various packages according to the users preferences and budgets. DISH Network is a complete entertainment platform that provides access of wide ranges of channels with several others advantages. 
+[Dish Network]() Corporation is a most reliable satellite television provider in the United States that offers high definition content quality and innovative services. It has designed various packages according to the users preferences and budgets. DISH Network is a complete entertainment platform that provides access of wide ranges of channels with several others advantages. 
 
 
 ## Benefits of Dish Network 
